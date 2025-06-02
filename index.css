@@ -3,9 +3,11 @@ body{
     background-image: url(doces-de-casamento-1.jpg);
 }
 header{
-    background-color: beige;
+   background-color: beige;
     text-align: center;
-    align-items: flex-end;
+    align-items: center;
+    display: flex;
+    font-size: 150;
 }
 section{
     color: azure;
